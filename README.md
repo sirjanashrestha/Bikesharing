@@ -4,7 +4,7 @@
 This project visualizes key data from New York Citi Bike dataset with the data visualization software Tableau. The project looks at the prospect of starting a ride share program in Des Moine. But, to make this business work in Des Moine, it studies how bike share business works in New York city.
 
 Tools: Tableau Desktop
-Source of Data: 
+Source of Data: 201908-citibike-tripdata.csv
 
 ## Results
 ### Checkout Times for Users
@@ -43,3 +43,5 @@ The analysis showed that;
 For future analysis, two visualizations that can be added to the existing dashboard are;
 - Trips by birth year to know the usage of bike share service by age group.
 - Trips by Station to understand which area has high share of bike share service.
+
+[Link to visualization dashboard: NYC_Citibike_Visualization | Sirjana](https://public.tableau.com/app/profile/sirjana1656/viz/NYC_Citibike_Visualization/Story1?publish=yes)
